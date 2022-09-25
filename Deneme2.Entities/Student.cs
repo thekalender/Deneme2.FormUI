@@ -12,5 +12,6 @@ namespace Deneme2.Entities
         public int Amount { get; set; }
 
         //deneme
+        //deneme2
     }
 }
